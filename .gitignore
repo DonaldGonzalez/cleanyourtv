@@ -17,3 +17,6 @@ work/
 *.aab
 launcher/hs_err_pid*.log
 launcher/replay_pid*.log
+
+# Personal device/network context (IP, TV model, CoworkOS imports) stays local.
+CLAUDE.local.md
